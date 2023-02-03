@@ -1,0 +1,14 @@
+{
+  "name": "4twin7",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node main.js",
+    "test": "",
+    "asyncAwait": "node asyncAwaitScopes.js",
+    "eventsDrivenModel": "node EventDrivenModel.js",
+    "atelier": "node Atelier.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
